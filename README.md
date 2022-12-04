@@ -1,4 +1,4 @@
-## Olá a todos, muito prazer!! ❄❄
+## Olá a todos, muito prazer!! ☕☕
 
 ### 💬 Meu nome é Cristian, sou Desenvolvedor Mobile Android com Kotlin, em busca de uma oportunidade de trabalho remoto. Disponho de alguns conhecimentos:
 * RecyclerView 
