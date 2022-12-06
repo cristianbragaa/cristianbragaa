@@ -10,6 +10,7 @@
 * Coroutines
 
 ### ✨ Atualmente estudando:
+* Git
 * Arquitetura MVP, MVVM
 * Jetpack Components
 ##
