@@ -2,15 +2,17 @@
 
 ### 💬 Meu nome é Cristian, sou Desenvolvedor Mobile Android com Kotlin, em busca de uma oportunidade de trabalho remoto.
 
-### 🌱 Atualmente estudando:
+###🌱 Atualmente estudando:
 * Git
 * Arquitetura MVP, MVVM
 * Jetpack Components
+
 ##
+
 <div align="center">
   <a href="https://github.com/cristianbragaa">
-  <img height="170em" widht:"50%" src="https://github-readme-stats.vercel.app/api?username=cristianbragaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" widht:"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianbragaa&layout=compact&langs_count=7&theme=dark"/>
+  <img widht:"42%" height="170em" src="https://github-readme-stats.vercel.app/api?username=cristianbragaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img widht:"42%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianbragaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
