@@ -9,7 +9,7 @@
 * Firebase
 * Coroutines
 
-### ✨ Atualmente estudando:
+### 🌱 Atualmente estudando:
 * Git
 * Arquitetura MVP, MVVM
 * Jetpack Components
