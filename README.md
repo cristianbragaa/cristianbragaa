@@ -1,6 +1,6 @@
 # Olá a todos, muito prazer!! ☕☕
 ### 💬 Meu nome é Cristian, sou Desenvolvedor Mobile Android com Kotlin, em busca de uma oportunidade de trabalho remoto.
-🌱 Atualmente estudando: Git, MVVM , Jetpack Components
+🌱 Atualmente estudando: Git, MVVM + Clean, Jetpack Components
 
 <div align="center">
   <a href="https://github.com/cristianbragaa">
