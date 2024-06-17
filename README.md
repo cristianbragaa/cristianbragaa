@@ -18,6 +18,3 @@
   <a href="https://www.linkedin.com/in/cristianbragadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-![jesus](https://github.com/cristianbragaa/Clone-Ifood/assets/77281161/10f45c20-071a-4cae-98ed-6c5c1182bf12)
-
