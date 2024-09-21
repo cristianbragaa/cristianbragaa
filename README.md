@@ -7,8 +7,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianbragaa&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg](https://cms-assets.tutsplus.com/uploads/users/1499/posts/29328/preview_image/kotlin.jpg](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light" >
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light" >
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </div>
 
 ##
