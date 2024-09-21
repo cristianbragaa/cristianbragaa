@@ -7,8 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianbragaa&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light" >
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,docker,c,vim" />
 </div>
 
 ##
