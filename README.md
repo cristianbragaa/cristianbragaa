@@ -1,5 +1,5 @@
 # Olá a todos, muito prazer!! 🍃
-### 👨‍💻 Meu nome é Cristian, sou Desenvolvedor Mobile Android com Kotlin, busco uma oportunidade de trabalho remoto.
+### 👨‍💻 Desenvolvedor Mobile Android com Kotlin, busco uma oportunidade de trabalho remoto.
 
 <div align="center">
   <a href="https://github.com/cristianbragaa">
