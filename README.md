@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianbragaa&layout=compact&langs_count=7&theme=holi"/>
 </div>
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=android,kotlin" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin, postman" />
 </div>
 
 ##
