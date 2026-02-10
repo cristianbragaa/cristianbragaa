@@ -1,0 +1,29 @@
+name: Generate Matrix Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake (Matrix Green)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: cristianbragaa
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#00ff66&color_dots=#001100,#003300,#00aa55,#00ff99
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
