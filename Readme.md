@@ -1,6 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&fontSize=40&fontColor=ffffff" />
 
-<h3 align="start">Desenvolvedor Android | Kotlin | Jetpack</h3>
+<h3 align="start">
+Desenvolvedor Android | Kotlin | Jetpack
+Busco uma oportunidade de trabalho remotamente.
+
+No curso onde estou estudando puder aprender e entender várias coisas, tais como:
+- Arquitetura MVVM
+- Clean Code e Clean Architecture
+- Requisições com APIs REST
+- Listas com RecyclerView
+- Cógido Assíncrono com Coroutines
+- Banco de Dados Firebase e Room
+- Injeção de Dependência com Hilt
+- Versionamento com Git e Github
+- Jetpack Compose
+- Testes (JUnit, Mockito, Espresso)
+
+GITHUB -> https://github.com/cristianbragaa
+EMAIL -> cristianbraga29@gmail.com
+
+</h3>
 
 ---
 
