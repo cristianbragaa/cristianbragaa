@@ -16,9 +16,6 @@ No curso onde estou estudando puder aprender e entender várias coisas, tais com
 - Jetpack Compose
 - Testes (JUnit, Mockito, Espresso)
 
-GITHUB -> https://github.com/cristianbragaa
-EMAIL -> cristianbraga29@gmail.com
-
 </h3>
 
 ---
