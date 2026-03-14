@@ -1,4 +1,4 @@
-name: Generate Matrix Snake
+name: Generate Material Snake
 
 on:
   workflow_dispatch:
@@ -13,12 +13,12 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake (Light Blue)
+      - name: Generate snake (Material You)
         uses: Platane/snk@v3
         with:
           github_user_name: cristianbragaa
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00ff66&color_dots=#001100,#003300,#00aa55,#00ff99
+            dist/github-contribution-grid-snake.svg?color_snake=#6750A4&color_dots=#F6F2FF,#EADDFF,#D0BCFF,#6750A4
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
