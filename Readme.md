@@ -36,9 +36,9 @@ No curso onde estou estudando puder aprender e entender várias coisas, tais com
 
 ---
 
-<p align="start">
-  <img src="https://github.com/cristianbragaa/cristianbragaa/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/cristianbragaa/cristianbragaa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
